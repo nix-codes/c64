@@ -27,3 +27,4 @@ A typical technique used for making assembly programs friendlier to load was to 
 *= $1000
 ; your main program code goes here
 ```
+For info on the BASIC instruction tokens, see: https://www.c64-wiki.com/wiki/BASIC_token
